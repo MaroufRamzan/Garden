@@ -1,0 +1,41 @@
+.heading{
+    background-color: #0dda3d;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    color: hsl(135, 57%, 3%);
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f9f5f5bc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box1,img,#one,#two,#three,#four,#five,#six{
+    width: 100%;
+    border-radius: 5px;
+}   
+div.box1,div.box2,div.box3{
+    width: 32%;
+    height:500px;
+    margin: 1px; 
+    border: 2px solid green;
+    padding: 1px;
+    border-radius: 8px;
+}
+div.box4,div.box5,div.box6{
+    width: 32%;
+    height:500px;
+    border: 2px solid green;
+    border-radius: 8px;
+}
+a,botton{
+    height: 30px;
+    width: 30px;
+    background-color: #09eb27;
+    color: #09eb27;
+    padding: 5px;
+    margin: 10px;
+}
